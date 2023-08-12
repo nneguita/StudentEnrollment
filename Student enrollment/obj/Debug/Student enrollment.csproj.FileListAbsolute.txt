@@ -1,0 +1,103 @@
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+C:\Users\TEMP\Desktop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\ioop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+F:\ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+F:\ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\ioop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+F:\ioop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+F:\ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+F:\ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+F:\ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+F:\ \ioop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Intakedata.resources
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Menu.resources
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+F:\ \ioop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+F:\ \ioop\Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+F:\ \ioop\Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ModuleForm.resources
+F:\ioop\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\ioop\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+F:\ioop\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Intakedata.resources
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Menu.resources
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ModuleForm.resources
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+F:\ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.AssignedStudent.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\ \ioop\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+F:\ \ioop\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.AssignedStudent.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Intakedata.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Menu.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ModuleForm.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+F:\ \ioop\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+F:\ \MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\ \MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+F:\ \MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.AssignedStudent.resources
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Intakedata.resources
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Menu.resources
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ModuleForm.resources
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+F:\ \MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+E:\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+F:\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe
+F:\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.pdb
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.AssignedStudent.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ComputingSubjectForm.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Intakedata.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Menu.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ModuleForm.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+F:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csprojResolveAssemblyReference.cache
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.AssignedStudent.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ComputingSubjectForm.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Form1.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Intakedata.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Menu.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.ModuleForm.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student_enrollment.Properties.Resources.resources
+E:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.csproj.GenerateResource.Cache
+F:\MAY-Student enrollment\Student enrollment\bin\Debug\studentenrollmentdb.mdf
+F:\MAY-Student enrollment\Student enrollment\bin\Debug\studentenrollmentdb_log.ldf
+G:\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+G:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+G:\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
+C:\Users\ASUS\Desktop\Mac\MAY-Student enrollment\Student enrollment\bin\Debug\Student enrollment.exe.config
+C:\Users\ASUS\Desktop\Mac\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.exe
+C:\Users\ASUS\Desktop\Mac\MAY-Student enrollment\Student enrollment\obj\Debug\Student enrollment.pdb
